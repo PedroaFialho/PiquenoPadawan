@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiquenoPadawan
-- 👀 I’m interested in flutter and node.js content.
+- 👀 I’m interested in flutter, node.js and python content.
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on anything that can make me learn or get better in any code language.
 - 📫 How to reach me ... pedro.a.fialho@ufv.br or https://www.linkedin.com/in/pedro-augusto-fialho-silva-370a481b6/
